@@ -1,0 +1,12 @@
+
+## 3.3. `.gitignore`
+
+```plaintext
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+.env
+venv/
+env/
+data/
