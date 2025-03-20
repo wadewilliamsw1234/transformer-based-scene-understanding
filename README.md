@@ -31,6 +31,3 @@ This project demonstrates how to use pre-trained Transformer-based models (DINOv
 - **YOLOv8**: Object detection
 - **MiDaS**: Depth estimation
 
-## Example Commands
-```bash
-python src/main.py --image_path data/bus.jpg --output_dir results
